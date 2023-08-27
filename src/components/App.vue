@@ -1,5 +1,5 @@
 <template>
-<p1>123456789</p1>
+<p1>hello mu</p1>
 </template>
 <script setup>
 </script>
